@@ -1,3 +1,13 @@
+```Tela login```
+![image](https://github.com/user-attachments/assets/23aa0199-8ea7-4e70-97b9-70d035a711b6)
+```Tela principal```
+![image](https://github.com/user-attachments/assets/c4054779-4d4e-490b-9cc0-ef0e9a5bed8c)
+![image](https://github.com/user-attachments/assets/38b2f444-d428-4dd9-ba1c-2e4813c2daaa)
+![image](https://github.com/user-attachments/assets/77bca0f3-4d1c-448e-9c97-6aa6e104b4dd)
+![image](https://github.com/user-attachments/assets/cde5d4e2-874f-4308-869d-d8b18ed8936e)
+![image](https://github.com/user-attachments/assets/95cd48ab-47ca-445e-ba57-160d39acc1d2)
+![image](https://github.com/user-attachments/assets/f7f6fbe6-dbf2-4c09-941b-c44b35338298)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
