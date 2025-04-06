@@ -74,10 +74,11 @@ Você pode testar ele clicando [aqui.](https://nutri-track-five.vercel.app/login
 
 Este projeto foi desenvolvido para:
 
-- Praticar o desenvolvimento de aplicações web modernas
-- Trabalhar com integração de APIs externas
-- Explorar autenticação com Google
-- Criar uma solução útil para nutrição e saúde
+- Praticar o desenvolvimento de aplicações web modernas ✅
+- Trabalhar com integração de APIs externas ✅
+- Explorar autenticação com Google ✅
+- Criar uma solução útil para nutrição e saúde ✅
+- Resolver a fome mundial ❌
 
 ---
 
